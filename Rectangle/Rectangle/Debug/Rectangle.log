@@ -1,0 +1,6 @@
+﻿  Rectangleapp.cpp
+  Rectangle.cpp
+  Generating Code...
+Rectangle.obj : error LNK2019: unresolved external symbol "public: __thiscall Rectangle::~Rectangle(void)" (??1Rectangle@@QAE@XZ) referenced in function "public: void __thiscall Rectangle::doubleRectangle(class Rectangle const &)" (?doubleRectangle@Rectangle@@QAEXABV1@@Z)
+Rectangleapp.obj : error LNK2001: unresolved external symbol "public: __thiscall Rectangle::~Rectangle(void)" (??1Rectangle@@QAE@XZ)
+C:\Users\Aram\Desktop\C++ Projects\Advanced C++\Rectangle\Debug\Rectangle.exe : fatal error LNK1120: 1 unresolved externals
