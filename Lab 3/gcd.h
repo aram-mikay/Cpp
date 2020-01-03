@@ -1,0 +1,1 @@
+int denominator(int, int);
